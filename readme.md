@@ -4,5 +4,6 @@
 
 ### A extensão. md significa que este arquivo é escrito em linguagem MarkDown linguaguem parecida com HTML
 
-![imagem](./imagemlegal.jpg)
+![imagem](./imagemlegal.png)
+
 
